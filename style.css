@@ -93,7 +93,7 @@ body {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-                url('/api/placeholder/1920/1080') center/cover fixed;
+                url('https://images.pexels.com/photos/29957629/pexels-photo-29957629/free-photo-of-moody-coffee-cup-in-warm-evening-light.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') center/cover fixed;
     color: white;
     display: flex;
     align-items: center;
